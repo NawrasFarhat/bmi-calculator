@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Advertisements>
+	<Ad>
+		<ImageUrl>~/image/ad6.jpg</ImageUrl>
+		<NavigationUrl>https://www.indianhealthyrecipes.com</NavigationUrl>
+		<AlternateText>image not found, click here</AlternateText>
+		<Impressions>20</Impressions>
+		<Keyword>fruit</Keyword>
+	</Ad>
+	<Ad>
+		<ImageUrl>~/image/ad7.png</ImageUrl>
+		<NavigationUrl>https://www.healthline.com</NavigationUrl>
+		<AlternateText>image not found, click here</AlternateText>
+		<Impressions>20</Impressions>
+		<Keyword>exercise</Keyword>
+	</Ad>
+</Advertisements>

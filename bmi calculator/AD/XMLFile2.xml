@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Advertisements>
+<Ad>
+	<ImageUrl>~/image/ad3.jpg</ImageUrl>
+	<NavigationUrl>https://www.healthline.com</NavigationUrl>
+	<AlternateText>image not found, click here</AlternateText>
+	<Impressions>20</Impressions>
+	<Keyword>exercise</Keyword>
+</Ad>
+<Ad>
+	<ImageUrl>~/image/ad5.jpeg</ImageUrl>
+	<NavigationUrl>https://riseshinecook.ca</NavigationUrl>
+	<AlternateText>image not found, click here</AlternateText>
+	<Impressions>20</Impressions>
+	<Keyword>fruit</Keyword>
+</Ad>
+</Advertisements>

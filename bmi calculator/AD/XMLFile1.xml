@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Advertisements>
+	<Ad>
+		<ImageUrl>~/image/ad1.png</ImageUrl>
+		<NavigationUrl>https://www.indianhealthyrecipes.com</NavigationUrl>
+		<AlternateText>image not found, click here</AlternateText>
+		<Impressions>20</Impressions>
+		<Keyword>juice</Keyword>
+	</Ad>
+	<Ad>
+		<ImageUrl>~/image/ad2.jpg</ImageUrl>
+		<NavigationUrl>https://www.bbcgoodfoodme.com</NavigationUrl>
+		<AlternateText>image not found, click here</AlternateText>
+		<Impressions>20</Impressions>
+		<Keyword>food</Keyword>
+	</Ad>
+</Advertisements>
